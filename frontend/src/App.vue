@@ -91,6 +91,7 @@ function applyFilters({ item, entity }) {
   }
 }
 </script>
+
 <style lang="scss">
 @import "@/assets/scss/app.scss";
 </style>
